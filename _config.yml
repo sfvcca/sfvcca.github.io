@@ -29,7 +29,7 @@ permalink: pretty
 markdown: kramdown
 kramdown: 
   input: GFM
-theme: jekyll-theme-time-machine
+theme: minima
 plugins:
   - jekyll-feed
 
